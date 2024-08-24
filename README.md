@@ -1,4 +1,9 @@
-## ¡Hola! Soy **Mateo Restrepo Benitez** 👋
+<p align="left">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm14YXl2OHo2NGw5Z2R3d3NvM2VzZWFoajdqaXlxNHF0N2QwN2ZjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="Coder GIF" width="200"/>
+</p>
+<h1>¡Hola! Soy Mateo Restrepo Benitez👋</h1>
+
+
 
 ¡Bienvenido a mi perfil de GitHub! Soy un **Desarrollador Full Stack** en formación, apasionado por crear aplicaciones web interactivas y dinámicas. Me encanta aprender nuevas tecnologías y aplicarlas para resolver problemas del mundo real.
 
@@ -11,28 +16,17 @@ Actualmente, estoy estudiando **Desarrollo Full Stack**, donde estoy perfecciona
 Aquí algunos de los lenguajes y herramientas con los que estoy familiarizado:
 
 <p align="center">
-  <!-- HTML -->
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin-right: 10px;"/>
-  <!-- CSS -->
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin-right: 10px;"/>
-  <!-- JavaScript -->
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;"/>
-  <!-- Java -->
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="margin-right: 10px;"/>
-  <!-- SQL Server -->
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" style="margin-right: 10px;"/>
-  <!-- MySQL -->
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" style="margin-right: 10px;"/>
-  <!-- Bootstrap -->
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin-right: 10px;"/>
-  <!-- Angular -->
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" style="margin-right: 10px;"/>
-  <!-- React -->
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="margin-right: 10px;"/>
-  <!-- Git -->
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin-right: 10px;"/>
 </p>
-
 
 ## 🌱 En Qué Estoy Trabajando
 
@@ -45,7 +39,3 @@ No dudes en contactarme si te gustaría conectar, colaborar o simplemente charla
 ---
 
 ¡Gracias por visitar mi perfil y feliz codificación! 😊
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" alt="Coder GIF" width="300"/>
-</p>
