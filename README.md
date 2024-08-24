@@ -17,11 +17,12 @@ Aquí algunos de los lenguajes y herramientas con los que estoy familiarizado:
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  
 
 </div>
 
@@ -33,12 +34,6 @@ Actualmente, me estoy enfocando en mejorar mis capacidades de full stack, trabaj
 
 No dudes en contactarme si te gustaría conectar, colaborar o simplemente charlar sobre tecnología y desarrollo. ¡Siempre estoy abierto a discutir nuevas ideas y proyectos!
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/1g3A0gpaidxWcL9Mfo/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="50">
-</div>
 
 ---
 
