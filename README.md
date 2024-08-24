@@ -1,34 +1,38 @@
-## Hi there, I'm Mateo Restrepo Benitez! 👋
+## ¡Hola! Soy Mateo Restrepo Benitez 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer in training, passionate about crafting interactive and dynamic web applications. I love learning new technologies and applying them to solve real-world problems.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack en formación, apasionado por crear aplicaciones web interactivas y dinámicas. Me encanta aprender nuevas tecnologías y aplicarlas para resolver problemas del mundo real.
 
-### About Me
+### Sobre Mí
 
-I'm currently studying Full Stack Development, where I'm honing my skills in both front-end and back-end technologies. My journey in tech started with a simple curiosity about how websites work, and it has since grown into a deep passion for building responsive and efficient web solutions.
+Actualmente, estoy estudiando Desarrollo Full Stack, donde estoy perfeccionando mis habilidades en tecnologías tanto de front-end como de back-end. Mi viaje en el mundo de la tecnología comenzó con una simple curiosidad sobre cómo funcionan los sitios web, y desde entonces se ha convertido en una profunda pasión por construir soluciones web responsivas y eficientes.
 
-### Languages and Tools
+### Lenguajes y Herramientas
 
-Here are some of the languages and tools I'm familiar with:
+Aquí algunos de los lenguajes y herramientas con los que estoy familiarizado:
 
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+<div align="center">
+  
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### What I'm Working On
+</div>
 
-I'm currently focusing on enhancing my full stack capabilities by working on both front-end frameworks like React and Angular, and back-end technologies including Java and SQL Server. I enjoy experimenting with new tools and frameworks and am always looking for opportunities to collaborate on exciting projects.
+### En Qué Estoy Trabajando
 
-### Let's Connect!
+Actualmente, me estoy enfocando en mejorar mis capacidades de full stack, trabajando tanto en frameworks de front-end como React y Angular, así como en tecnologías de back-end como Java y SQL Server. Disfruto experimentando con nuevas herramientas y frameworks, y siempre estoy buscando oportunidades para colaborar en proyectos emocionantes.
 
-Feel free to reach out if you'd like to connect, collaborate, or just chat about technology and development. I'm always open to discussing new ideas and projects!
+### ¡Conectemos!
+
+No dudes en contactarme si te gustaría conectar, colaborar o simplemente charlar sobre tecnología y desarrollo. ¡Siempre estoy abierto a discutir nuevas ideas y proyectos!
 
 ---
 
-Thanks for stopping by, and happy coding! 😊
+¡Gracias por visitar mi perfil y feliz codificación! 😊
